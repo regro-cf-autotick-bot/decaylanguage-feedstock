@@ -29,11 +29,11 @@ requirements:
     - attrs >=22.2.0
     - python-graphviz
     - lark >=1.0.0
-    - numpy >=1.19.3
+    - numpy >=1.26.0
     - pandas >=2.0
     - particle >=1.0.0
     - hepunits >=2.4.0
-    - plumbum >=1.7.0
+    - plumbum >=1.9.0
 
 tests:
   - python:
